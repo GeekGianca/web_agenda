@@ -1,0 +1,6 @@
+io\gksoftwaresolutions\agendaweb\modelos\Tarea.class
+io\gksoftwaresolutions\agendaweb\servicios\ParentConexion.class
+io\gksoftwaresolutions\agendaweb\modelos\Usuario.class
+io\gksoftwaresolutions\agendaweb\servicios\Conexion.class
+io\gksoftwaresolutions\agendaweb\servicios\FactoriaConexion.class
+io\gksoftwaresolutions\agendaweb\controlador\SvtControlador.class
